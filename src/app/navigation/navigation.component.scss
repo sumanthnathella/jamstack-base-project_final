@@ -1,12 +1,15 @@
 header {
   align-items: baseline;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  padding-bottom: 20px;
+  border-bottom: 1px solid antiquewhite;
   display: flex;
   height: 60px;
   padding-left: 10px;
+  color: antiquewhite;
 }
 
 h1 {
+  color: antiquewhite;
   font-size: 2em;
   margin: 0;
 }
@@ -24,7 +27,7 @@ h1 {
 }
 
 .main-menu a {
-  color: black;
+  color: antiquewhite;
   display: block;
   padding: 20px 15px;
   text-decoration: none;
@@ -32,13 +35,13 @@ h1 {
 
 .main-menu a:hover,
 .main-menu a:focus {
-  color: rgba(0, 0, 0, 0.5);
-  text-decoration: underline;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .logo a,
 .logo a:visited {
-  color: black;
+  color: antiquewhite;
   text-decoration: none;
 }
 
