@@ -29,6 +29,7 @@
     "@scullyio/scully": "^1.0.0-beta.0",
     "netlify-identity-widget": "^1.9.1",
     "netlify-schematics": "^1.1.2",
+    "prettier": "^2.0.5",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
