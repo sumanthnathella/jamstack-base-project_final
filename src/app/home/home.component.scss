@@ -3,8 +3,13 @@
   margin: 50px;
 }
 
-.gsc-control-cse{
-  border:0;
+#google-search{
+  position: relative;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background: #f2f2f2;
+  padding: 3px;
 }
 
 .motto{
